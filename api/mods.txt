@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Volvo body for ksrtc",
+        "author": "Admin",
+        "file_size": "67000000",
+        "storage_ref": "https://drive.google.com/uc?id=12_GgLsZECOepJuNMIat2fA1H_e1gbh82&export=download",
+        "new": "true",
+        "preview_urls": [
+            "Volvo body for ksrtc.webp"
+        ]
+    },
+    {
+        "title": "BMR BETA.V1.1.by TEAM KBS ANDROID",
+        "author": "Admin",
+        "file_size": "39000000",
+        "storage_ref": "https://drive.google.com/uc?id=11DHoBwENU69CXmCXWWRwchBFzK_5yWaO&export=download",
+        "new": "true",
+        "preview_urls": [
+            "BMR BETA.V1.1.by TEAM KBS ANDROID.webp"
+        ]
+    },
+    {
+        "title": "VIKING_V3_Tiger_coach",
+        "author": "Admin",
+        "file_size": "50000000",
+        "storage_ref": "https://drive.google.com/uc?id=1FnnIe3xhYmDWqTg73T_SWH1LZonTtEmd&export=download",
+        "new": "true",
+        "preview_urls": [
+            "VIKING_V3_Tiger_coach.webp"
+        ]
+    }
+]

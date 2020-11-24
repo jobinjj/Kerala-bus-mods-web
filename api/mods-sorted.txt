@@ -12,7 +12,7 @@
         "author": "Admin",
         "file_size": "39000000",
         "storage_ref": "https://drive.google.com/uc?id=11DHoBwENU69CXmCXWWRwchBFzK_5yWaO&export=download",
-        "newmod": "false",
+        "newmod": "true",
         "preview_url": "https://keralabusmods.netlify.app/mod-previews/BMR BETA.V1.1.by TEAM KBS ANDROID.webp"
     },
     {
@@ -100,7 +100,7 @@
         "author": "Admin",
         "file_size": "33000000",
         "storage_ref": "https://drive.google.com/uc?id=1pVHHTRO6ksM443Ux7qVI5qmH7kmiHeMc&export=download",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1CsyT9Rf4V91RCGA5wGxPoZ3laguJIq-r&export=download"
     },
     {
@@ -108,7 +108,7 @@
         "author": "Admin",
         "file_size": "12000000",
         "storage_ref": "https://drive.google.com/uc?id=1yPLIp-oQ7FJ8U-uQGJi0tEULi1N2VNML&export=download",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1VIuKsq1boqEkOYrfwbXsx9Yq-VYaJNkF&export=download"
     },
     {
@@ -116,7 +116,7 @@
         "author": "Admin",
         "file_size": "6000000",
         "storage_ref": "https://drive.google.com/uc?id=1tFoDeZQL1-A90n8EIHnQcb5de68PbLQ9&export=download",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1fhbukNcezfl9Gb25HuAbSTK2X-2BGtgI&export=download"
     },
     {
@@ -124,7 +124,7 @@
         "author": "Admin",
         "file_size": "48000000",
         "storage_ref": "https://drive.google.com/uc?id=1jfujbjhp47wx1pXEAbdI_vAJOH7bHLW1&export=download",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1azFwPdCj7kiwfktUYw3_XuMv2hcq_zJn&export=download"
     },
     {
@@ -132,7 +132,7 @@
         "author": "Admin",
         "file_size": "51000000",
         "storage_ref": "https://drive.google.com/uc?id=1Oyk3GOjAJ6gC-XclbZmqRogFF59wFlCF&export=download",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1ppGWx6XFGWH-wtbXMtLKqcPGWBKALomu&export=download"
     },
     {
@@ -140,7 +140,7 @@
         "author": "Admin",
         "file_size": "52000000",
         "storage_ref": "https://drive.google.com/uc?id=1eAwILNQM2xWD1nkTEMFv4NqCG0lCC1dP&export=download",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1siYzezPazTdp29PcRIRstAKmHIXrxms8&export=download"
     },
     {
@@ -148,7 +148,7 @@
         "author": "Admin",
         "file_size": "24000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1VIFBUIKVEewqD8Be6GFADOjxoMvBhRQP",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1hXcSVC09MMwfOqaTTdhEArmsAXCnS2IW&export=download"
     },
     {
@@ -156,7 +156,7 @@
         "author": "Admin",
         "file_size": "12000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1s-HIBHwcnrtJ94qzZl_ZoMqFJgmZXl8g",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?export=download&id=1H7OQXmO9NXw8FcEXVqF5XVnNsE3kVLd9"
     },
     {
@@ -164,7 +164,7 @@
         "author": "Admin",
         "file_size": "29000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1Y7jp1gmdpXiCLwOlgv3TiCiVxHwMXtEZ",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?export=download&id=1PGKo6NF3UadM2jZQqwtzFtRg1DFj5PGa"
     },
     {
@@ -172,7 +172,7 @@
         "author": "Admin",
         "file_size": "21000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1AK3q6HE17dZZfJh08qDWRjHuC-5r-hsh",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?export=download&id=1nW8jaaBF-TwP0KQOg-pbJPbUkuCV9OdP"
     },
     {
@@ -180,7 +180,7 @@
         "author": "Admin",
         "file_size": "9000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1CgusyO91JXtK10WezteYHPHS_E4nNGSX",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?export=download&id=1Z-751tdDQiSGLAvq-jpaJRU5RfppyMCG"
     },
     {
@@ -188,7 +188,7 @@
         "author": "Admin",
         "file_size": "8000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1wF-24CBa2s_S4DubjyMdzXLNdaI9_PW8",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?export=download&id=12E1BgMAXM3yNQHvG3M3BnuANoEct8P02"
     },
     {
@@ -196,7 +196,7 @@
         "author": "Admin",
         "file_size": "15000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1xIupoGdako2MsxJquxpbPABO1P4pmZxU",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?export=download&id=1WhPUxCqXmpmXq1patjTGbvbbSbOM-Iq3"
     },
     {
@@ -204,7 +204,7 @@
         "author": "Admin",
         "file_size": "13000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1Y6ItnPRtJifJTDI5j5esgHlst_V37k2j",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?export=download&id=1KDEWmUw1ldOSAeJBe8JgFkxQuHSKjMFZ"
     },
     {
@@ -212,7 +212,7 @@
         "author": "Admin",
         "file_size": "10000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1ajx-fYAljiMYOOfR9LBtpqAog8Nml2ui",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1RS2FkxLSgMWXjzqx-L9XoJ0rC3BmrhUL&export=download"
     },
     {
@@ -220,7 +220,7 @@
         "author": "Admin",
         "file_size": "10000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1PrsZDBjEskK9DsZNMVAjPEQjWKzmzRWI",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1RpiA_6-5nVMfnH_wWcJMQYjd7mN5Jg9H&export=download"
     },
     {
@@ -228,7 +228,7 @@
         "author": "Admin",
         "file_size": "34000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1EwjTWwxQpSbuPrTX8GIeW282Mp_FfzZK",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1k4g1M7DG_2q8fUv14Yr4TtB3HFGQ1Se-&export=download"
     },
     {
@@ -236,7 +236,7 @@
         "author": "Admin",
         "file_size": "10000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1GUSwksU-LP7vTLiAiWd7vG7qZX3vIFZw",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1-_HEpWjdg6_I3VjK8pBUpgFdJWIE6a7h&export=download"
     },
     {
@@ -244,7 +244,7 @@
         "author": "Admin",
         "file_size": "43000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1NU6ZITLUcuUuEjLmoKTLjyAMlWet1iuq",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1QpudzylmeAR9m8Dj8Lqk3cMDVqSL0HAp&export=download"
     },
     {
@@ -252,7 +252,7 @@
         "author": "Admin",
         "file_size": "5000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1lMk-bmYuIGtSq3YA12mSEOmI_teASdsW",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1cB5feyioVPZnoYA16y8mYisZntxvAWS_&export=download"
     },
     {
@@ -260,7 +260,7 @@
         "author": "Admin",
         "file_size": "6000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1ArloYXUHNke9HEKShJ50PuTU2z1zqrLk",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=187OZOkDMbmIRA9OyD9BZ0mDxeG6Ws6Qm&export=download"
     },
     {
@@ -268,7 +268,7 @@
         "author": "Admin",
         "file_size": "17000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1uS_L8wFg9oUPZMdH0IjmD1js42Zh-PlR",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1M0ruGUCk0bOPd00-de7-Nki6iyNPd_8y&export=download"
     },
     {
@@ -276,7 +276,7 @@
         "author": "Admin",
         "file_size": "29000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1V4u92l6GR1DBJR8XaRHvyo76wr8-JKev",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=16m1fplIRy6orZtOFrcXlkwla4VKWqlBO&export=download"
     },
     {
@@ -284,7 +284,7 @@
         "author": "Admin",
         "file_size": "30000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1FqBmT8SpoaRveL0PX3Bdmxp6pwsL00OQ",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1_G-5CJceslh5aM8FOx0epuageUrqJVZn&export=download"
     },
     {
@@ -292,7 +292,7 @@
         "author": "Admin",
         "file_size": "35000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=19VTxrKUOfeybg1Be_Paks_H3AfhxocDJ",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1gYUGOW5KjM_MqqIFwrOhpu2PrpRt78NB&export=download"
     },
     {
@@ -300,7 +300,7 @@
         "author": "Admin",
         "file_size": "29000000",
         "storage_ref": "https://drive.google.com/uc?export=download&id=1-PqV7zTXDOgUQ1ojnoNMsUdHtf42qWdY",
-        "newmod": "true",
+        "newmod": "false",
         "preview_url": "https://drive.google.com/uc?id=1udOAavA1XCM3CFulAmt4PX9_9rQq4aJv&export=download"
     }
 ]

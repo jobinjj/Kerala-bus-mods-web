@@ -48,14 +48,6 @@
         "preview_url": "https://keralabusmods.netlify.app/mod-previews/Photo_201122043142.webp"
     },
     {
-        "title": "SARANYA_COACH_TEAM_AKBDA-1",
-        "author": "Admin",
-        "file_size": "16000000",
-        "storage_ref": "https://cdn-34.bayfiles.com/h490Sbrcp5/924ce130-1606036026/SARANYA_COACH_TEAM_AKBDA-1.zip",
-        "newmod": "true",
-        "preview_url": "https://keralabusmods.netlify.app/mod-previews/Photo_201122043752.webp"
-    },
-    {
         "title": "Maruti_V2",
         "author": "Admin",
         "file_size": "40000000",
